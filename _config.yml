@@ -1,3 +1,12 @@
 remote_theme: pages-themes/cayman@v0.2.0
+title: Elvis Brevi's Blog
+description: Personal blog and portfolio
+show_downloads: false
+
+# Build settings
+markdown: kramdown
+permalink: /posts/:title/
+
 plugins:
 - jekyll-remote-theme
+- jekyll-feed
