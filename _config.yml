@@ -1,4 +1,4 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 title: Elvis Brevi's Blog
 description: Personal blog and portfolio
 show_downloads: false
@@ -7,6 +7,16 @@ show_downloads: false
 markdown: kramdown
 permalink: /posts/:title/
 
+# Post settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+
 plugins:
 - jekyll-remote-theme
 - jekyll-feed
+- jekyll-seo-tag
