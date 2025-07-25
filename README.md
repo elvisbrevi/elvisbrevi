@@ -2,9 +2,8 @@
 
 ## 🏠 Software Engineer de Chile
 
-Software Engineer con 7+ años de experiencia. Actualmente trabajo en SAG Chile especializándome en microservicios, Azure DevOps y RabbitMQ.
-
-Estos son mis proyectos personales fuera del trabajo. Para mi experiencia profesional: [LinkedIn](https://www.linkedin.com/in/elvisbrevi/) | [Blog](https://www.elvisbrevi.cl/about)
+Software Engineer con 14+ años de experiencia. Soy un apasionado desarrollador de software chileno con experiencia en múltiples tecnologías y un enfoque en crear soluciones eficientes e innovadoras. Los proyectos que verás aquí representan mi trabajo personal fuera de mi empleo de tiempo completo.
+Para información sobre mi experiencia profesional y trabajo de tiempo completo, puedes encontrar más detalles en mi perfil de LinkedIn.
 
 ### 🔧 Stack
 
@@ -13,19 +12,12 @@ Estos son mis proyectos personales fuera del trabajo. Para mi experiencia profes
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-### 🚀 Proyectos Destacados
-
-- **[hashnode-to-markdown](https://github.com/elvisbrevi/hashnode-to-markdown)** - CLI para exportar posts de Hashnode a Markdown
-- **[AdventOfCode](https://github.com/elvisbrevi/AdventOfCode)** - Desafíos algorítmicos resueltos en Rust
-- **[monogame-template](https://github.com/elvisbrevi/monogame-template)** - Template de MonoGame para C#
-- **[RabbitMQWrapper](https://github.com/elvisbrevi/RabbitMQWrapper)** - Wrapper para RabbitMQ en TypeScript
-
-### 📊 Most Used Languages
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=elvisbrevi&layout=compact&theme=vue-dark&hide_border=true)
-
 ### 🌐 Conecta conmigo
 
 - 💼 **LinkedIn**: [elvisbrevi](https://www.linkedin.com/in/elvisbrevi/)
 - 🌐 **Blog**: [elvisbrevi.cl](https://www.elvisbrevi.cl)
 - 🎮 **Itch.io**: [elvisbrevi.itch.io](https://elvisbrevi.itch.io/)
+
+## 📊 Most Used Languages
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=elvisbrevi&layout=compact&theme=vue-dark&hide_border=true)
