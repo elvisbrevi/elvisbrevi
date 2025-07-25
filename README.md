@@ -1,9 +1,9 @@
-# 👋 ¡Hola! Soy Elvis Brevi
+# 👋 Hi! I'm Elvis Brevi
 
-## 🏠 Software Engineer de Chile
+## 🏠 Software Engineer from Chile
 
-Software Engineer con 14+ años de experiencia. Soy un apasionado desarrollador de software chileno con experiencia en múltiples tecnologías y un enfoque en crear soluciones eficientes e innovadoras. Los proyectos que verás aquí representan mi trabajo personal fuera de mi empleo de tiempo completo.
-Para información sobre mi experiencia profesional y trabajo de tiempo completo, puedes encontrar más detalles en mi perfil de LinkedIn.
+Software Engineer with 14+ years of experience. I'm a passionate Chilean software developer with experience in multiple technologies and a focus on building efficient and innovative solutions. The projects you’ll see here represent my personal work outside of my full-time job.
+For information about my professional background and full-time work, you can find more details on my LinkedIn profile [elvisbrevi](https://www.linkedin.com/in/elvisbrevi/).
 
 ### 🔧 Stack
 
@@ -12,7 +12,7 @@ Para información sobre mi experiencia profesional y trabajo de tiempo completo,
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-### 🌐 Conecta conmigo
+### 🌐 Connect with me
 
 - 💼 **LinkedIn**: [elvisbrevi](https://www.linkedin.com/in/elvisbrevi/)
 - 🌐 **Blog**: [elvisbrevi.cl](https://www.elvisbrevi.cl)
